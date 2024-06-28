@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background: linear-gradient(to right, skyblue, lightcoral);
+}
+
+h1, h2 {
+    color: #333;
+}
+
+.section {
+    margin-bottom: 20px;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.section p {
+    margin: 5px 0;
+}
